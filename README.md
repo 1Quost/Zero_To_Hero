@@ -72,7 +72,7 @@ Quiz Scene with lives and progress bar features:
 
 Patricia Clarji
 
-> [LinkedIn](https://www.linkedin.com/in/patriciaclarji) • [GitHub](https://github.com/1Quost)
+> [LinkedIn](https://www.linkedin.com/in/patricia-clarji-7056a8347/) • [GitHub](https://github.com/1Quost)
 
 
 Enjoy.

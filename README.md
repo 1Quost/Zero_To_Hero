@@ -48,10 +48,12 @@ To run the project:
 Find below pictures of the project
 
 Home Page:
-![image](https://github.com/user-attachments/assets/0e6a772a-d034-4f9a-b81a-1cbe6e171e04)
+![image](https://github.com/user-attachments/assets/79a8198a-e616-4552-bd88-31dc10e47e44)
 
 Settings:
-![image](https://github.com/user-attachments/assets/79a8198a-e616-4552-bd88-31dc10e47e44)
+
+![image](https://github.com/user-attachments/assets/0e6a772a-d034-4f9a-b81a-1cbe6e171e04)
+
 
 categories:
 ![image](https://github.com/user-attachments/assets/a604c7f7-5fe9-4c4e-85d4-ea4feefd5305)

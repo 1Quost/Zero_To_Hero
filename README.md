@@ -30,9 +30,6 @@
 
 * Java
 * JavaFX
-* SceneBuilder (optional)
-* CSS for styling
-* MySQL (for database-backed question storage, if applicable)
 
 ## 🚀 Getting Started
 

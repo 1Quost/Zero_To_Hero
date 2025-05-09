@@ -30,6 +30,7 @@
 
 * Java
 * JavaFX
+* CSS for styling
 
 ## 🚀 Getting Started
 
@@ -75,7 +76,7 @@ Patricia Clarji
 > [LinkedIn](https://www.linkedin.com/in/patricia-clarji-7056a8347/) • [GitHub](https://github.com/1Quost)
 
 
-Enjoy.
+
 
 
 
